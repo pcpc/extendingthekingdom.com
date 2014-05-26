@@ -1,0 +1,77 @@
+h1
+{
+background: url("../images/2009urbanmissionsconference.jpg");
+height: 492px;
+width:310px;
+text-indent: -9999px;
+}
+
+.fineprint
+{
+  color:#666;
+  font-size:75%;
+}
+
+
+#contentarea
+{
+  margin: 20px 0;
+}
+
+h3 span.register-now a img
+{
+  vertical-align: middle;
+}
+
+h3
+{
+  margin:50px 0 5px 0;
+}
+
+
+h3 span.register-now a
+{
+  text-decoration: none;
+  margin: 0 7px;
+  padding: 5px;
+}
+#schedule h4
+{
+  font-size: 18px;
+  font-weight:bold;
+  color:#113662;
+}
+
+
+#schedule dl dt.name
+{
+  margin:10px 0 3px 0;
+  font-size:14px;
+}
+
+
+
+/* --- :[ Callout Box ]: --- */
+.callout
+{
+  border-left:3px #E5ECF9 solid;
+  padding:0 10px;
+  margin:0 0 10px 10px;
+  float:right;
+  width:250px;
+  color:#666666;
+  font-style: italic;
+  font-size:80%;
+}
+
+.callout img
+{
+  float:left;
+  border:#666 2px solid;
+  margin:0 10px 5px 0;
+}
+.callout img.noBorder
+{
+  border:0;
+}
+
